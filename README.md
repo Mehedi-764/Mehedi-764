@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
 
-𝓐𝓫𝓸𝓾𝓽 𝓜𝓮:
+𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :
 Hi, I am Mehedi Hasan Sabbir
 🎓 CSE Student | AI & Machine Learning Enthusiast | Software Developer
 I'm a Computer Science & Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy building practical projects, learning new technologies and turning ideas into real-world applications.My Goal is to become an AI/ML Engineer and Researcher by continuously learning, building meaningful projects and contributing to the AI community.
